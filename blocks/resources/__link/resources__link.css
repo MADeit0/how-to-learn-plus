@@ -1,0 +1,7 @@
+.resources__link {
+  transition: .5s cubic-bezier(.02,-0.45,.36,1.01);
+}
+
+.resources__link:hover {
+  opacity: .6;
+}

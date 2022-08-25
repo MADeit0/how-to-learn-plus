@@ -1,0 +1,13 @@
+.khan__buy-link {
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  white-space: nowrap;
+  color: #2f80ed;
+  transition: .5s cubic-bezier(.02,-0.45,.36,1.01);
+}
+
+.khan__buy-link:hover {
+  opacity: .6;
+}
