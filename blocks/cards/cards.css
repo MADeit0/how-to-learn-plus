@@ -3,7 +3,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content:flex-start;
-  row-gap: 60px;
   column-gap: 100px;
   list-style-type: none;
   padding: 0;
