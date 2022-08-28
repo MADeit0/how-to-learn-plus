@@ -1,8 +1,9 @@
 .cards {
   width: 920px;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content:flex-start;
+  max-width: 100%;
+  display: grid;
+  justify-content: center;
+  grid-template-columns: repeat(auto-fill,240px);
   column-gap: 100px;
   list-style-type: none;
   padding: 0;
